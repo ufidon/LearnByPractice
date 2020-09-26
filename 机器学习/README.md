@@ -9,5 +9,10 @@
 * [Over 200 of the Best Machine Learning, NLP, and Python Tutorials — 2018 Edition](https://medium.com/machine-learning-in-practice/over-200-of-the-best-machine-learning-nlp-and-python-tutorials-2018-edition-dd8cf53cb7dc)
 * [Advanced network management](https://netman.aiops.org/courses/)
 * [ANM2019](https://netman.aiops.org/~peidan/ANM2019/)
+* [Forecasting: Principles and Practice](https://otexts.com/fpp2/index.html)
+* [Intro to TensorFlow for Deep Learning](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
+  * [examples](https://github.com/tensorflow/examples/tree/master/courses/udacity_intro_to_tensorflow_for_deep_learning)
+* [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
+* [Deep Learning with Python, Second Edition](https://www.manning.com/books/deep-learning-with-python-second-edition)
 
 
