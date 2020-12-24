@@ -1,6 +1,7 @@
 # 计算机原理
 
 ## 在线书籍与课程
+### Forth
 * [Forth](http://www.forth.org/)
   * [eforth-x86-64bits](https://github.com/hcchengithub/eforth-x86-64bits)
   * [embed: A tiny embeddable Forth interpreter](https://github.com/howerj/embed)
@@ -22,3 +23,12 @@
     * [YosysHQ](https://github.com/YosysHQ)
     * [icestorm](http://www.clifford.at/icestorm/)
 
+### 从第一原理构建计算机
+* [From Nand to Tetris](https://www.nand2tetris.org/)
+  * [nandgame](https://nandgame.com/)
+  * [Build a Computer](https://www.coursera.org/learn/build-a-computer/)
+* [Computer Systems: A Programmer's Perspective](http://www.csapp.cs.cmu.edu/)
+  * [CSAPP-3e 练习](https://github.com/DesmondoRay/CSAPP-3e)
+* [计算机科学参考资料](https://github.com/acmbpdc/openlib.cs)
+  * [C++参考](https://github.com/MattPD/cpplinks)
+  * [系统开发者参考资料列表](https://github.com/bugzmanov/mechanical_sympathy)
