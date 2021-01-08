@@ -14,3 +14,6 @@
 * [TP4056 Lithium Ion Battery Charger](https://www.electronicshub.org/tp4056-lithium-ion-battery-charger/)
   * [TP4056](https://easyeda.com/Little_Arc/TP4056)
 * [18650 battery Discharge Tool](https://hackaday.io/project/171829-18650-battery-discharge-tool)
+
+## 词典
+* [stardict](http://www.huzheng.org/stardict/index_cn.php)
