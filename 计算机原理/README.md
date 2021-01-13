@@ -36,6 +36,8 @@
 ### 操作系统
 * [30dayMakeOS code](https://github.com/yourtion/30dayMakeOS)
   * [book](http://www.huzheng.org/ebook/30daysbuildos.pdf)
+  * [官网](http://hrb.osask.jp/)
+  * [HariboteOS](https://github.com/HariboteOS)
 * [os-tutorial](https://github.com/cfenollosa/os-tutorial)
   * [Writing a Simple Operating System — from Scratch](https://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf)
   * [littleosbook](https://littleosbook.github.io/)
