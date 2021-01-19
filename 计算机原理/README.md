@@ -33,6 +33,15 @@
   * [C++参考](https://github.com/MattPD/cpplinks)
   * [系统开发者参考资料列表](https://github.com/bugzmanov/mechanical_sympathy)
 
+### BIOS
+* [KVM: Alternate firmware BIOS for KVM](https://fabianlee.org/2018/09/13/ubuntu-alternate-firmware-bios-for-kvm/)
+  * [OVMF](http://www.linux-kvm.org/page/OVMF)
+    * [EDK2](https://wiki.ubuntu.com/UEFI/EDK2)
+      * [edk2](https://github.com/tianocore/edk2)
+  * [coreboot](https://doc.coreboot.org/)
+  * [SeaBIOS](https://www.seabios.org/SeaBIOS)
+  * [OpenBIOS](https://www.openbios.org/OpenBIOS)
+  * [uefi](https://uefi.org/)
 ### 操作系统
 * [30dayMakeOS code](https://github.com/yourtion/30dayMakeOS)
   * [book](http://www.huzheng.org/ebook/30daysbuildos.pdf)
