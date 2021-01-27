@@ -26,3 +26,5 @@
 * [IDS (Ideographic Description Sequence)](https://github.com/cjkvi/cjkvi-ids)
 * [CHISE : CHaracter Information Service Environment](http://www.chise.org/)
 * [JSRAN-implemented-by-Pytorch](https://github.com/ChangjieWu/JSRAN)
+* [pinyinjs](https://github.com/sxei/pinyinjs)
+* [常用汉字](https://github.com/kaienfr/Font)

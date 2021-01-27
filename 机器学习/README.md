@@ -15,4 +15,9 @@
 * [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
 * [Deep Learning with Python, Second Edition](https://www.manning.com/books/deep-learning-with-python-second-edition)
 
+## GAN
+* [Creative Tools to Generate AI Art](https://aiartists.org/ai-generated-art-tools)
+* [Generative Adversarial Networks (GANs) for Beginners: Generating Images of Distracted Drivers](https://towardsdatascience.com/generative-adversarial-networks-gans-for-beginners-82f26753335e)
+* [CycleGANs to Create Computer-Generated Art](https://towardsdatascience.com/cyclegans-to-create-computer-generated-art-161082601709)
+
 
