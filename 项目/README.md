@@ -27,4 +27,5 @@
 * [CHISE : CHaracter Information Service Environment](http://www.chise.org/)
 * [JSRAN-implemented-by-Pytorch](https://github.com/ChangjieWu/JSRAN)
 * [pinyinjs](https://github.com/sxei/pinyinjs)
+* [pinyin-data](https://github.com/mozillazg/pinyin-data)
 * [常用汉字](https://github.com/kaienfr/Font)
