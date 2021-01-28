@@ -16,7 +16,9 @@
 * [18650 battery Discharge Tool](https://hackaday.io/project/171829-18650-battery-discharge-tool)
 
 ## 词典
-* [说文解字](https://ctext.org/shuo-wen-jie-zi/zhs)
+* [中国哲学书电子化计划](https://ctext.org)
+  * [说文解字](https://ctext.org/shuo-wen-jie-zi/zhs)
+* [字源](https://hanziyuan.net/)
 * [stardict](http://www.huzheng.org/stardict/index_cn.php)
 * [漢語拆字字典](https://github.com/kfcd/chaizi)
 * [ICPR 图像识别与检测挑战赛冠军方案出炉，基于偏旁部首来识别 Duang 字](https://cloud.tencent.com/developer/article/1346123)
@@ -29,3 +31,16 @@
 * [pinyinjs](https://github.com/sxei/pinyinjs)
 * [pinyin-data](https://github.com/mozillazg/pinyin-data)
 * [常用汉字](https://github.com/kaienfr/Font)
+* [国学大师象形字](http://www.guoxuedashi.com/xiangxingzi/)
+* [古文字電腦字型](http://web.hku.hk/~jwilam/chinese/font.htm)
+
+## 图库
+* [GoGraph](https://www.gograph.com/)
+* [openclipart](https://openclipart.org/)
+* [clipart library](http://clipart-library.com/)
+* [clipart](https://clipart.me/)
+* [publicdomainvectors](https://publicdomainvectors.org/)
+* [pngtree](https://pngtree.com/)
+* [clipartix](https://clipartix.com/)
+* [classroomclipart](https://classroomclipart.com/)
+* [123rf](https://www.123rf.com/)
