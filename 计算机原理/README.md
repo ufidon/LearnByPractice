@@ -54,3 +54,13 @@
 * [fasm](https://flatassembler.net/)
   * [PiscisOS](https://github.com/tishion/PiscisOS)
   * [kolibrios](https://kolibrios.org/)
+
+### 编译器
+* [chibicc](https://github.com/rui314/chibicc)
+  * [tcc](https://bellard.org/tcc/)
+  * [lcc](https://drh.github.io/lcc/)
+  * [Where is the x86-64 System V ABI documented?](https://stackoverflow.com/questions/18133812/where-is-the-x86-64-system-v-abi-documented)
+* [Introduction to Compilers and Language Design](https://www3.nd.edu/~dthain/compilerbook/)
+* [build-a-compiler-within-30-days](https://github.com/jiweixing/build-a-compiler-within-30-days)
+* [Creating the smallest JVM microservice deployment](https://medium.com/de-bijenkorf-techblog/creating-the-smallest-jvm-microservice-deployment-14a039a1dcae)
+  * [Building the JDK](https://hg.openjdk.java.net/jdk/jdk12/raw-file/tip/doc/building.html)
