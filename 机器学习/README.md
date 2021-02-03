@@ -14,6 +14,7 @@
   * [examples](https://github.com/tensorflow/examples/tree/master/courses/udacity_intro_to_tensorflow_for_deep_learning)
 * [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
 * [Deep Learning with Python, Second Edition](https://www.manning.com/books/deep-learning-with-python-second-edition)
+* [Algorithms for Decision Making](https://algorithmsbook.com/)
 
 ## GAN
 * [Creative Tools to Generate AI Art](https://aiartists.org/ai-generated-art-tools)

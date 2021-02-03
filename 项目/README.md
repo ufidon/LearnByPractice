@@ -19,7 +19,6 @@
 * [中国哲学书电子化计划](https://ctext.org)
   * [说文解字](https://ctext.org/shuo-wen-jie-zi/zhs)
 * [字源](https://hanziyuan.net/)
-* [stardict](http://www.huzheng.org/stardict/index_cn.php)
 * [漢語拆字字典](https://github.com/kfcd/chaizi)
 * [ICPR 图像识别与检测挑战赛冠军方案出炉，基于偏旁部首来识别 Duang 字](https://cloud.tencent.com/developer/article/1346123)
 * [Radical analysis network for zero-shot learning in printed Chinese character recognition](https://arxiv.org/abs/1711.01889v2)
