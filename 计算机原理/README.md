@@ -64,3 +64,5 @@
 * [build-a-compiler-within-30-days](https://github.com/jiweixing/build-a-compiler-within-30-days)
 * [Creating the smallest JVM microservice deployment](https://medium.com/de-bijenkorf-techblog/creating-the-smallest-jvm-microservice-deployment-14a039a1dcae)
   * [Building the JDK](https://hg.openjdk.java.net/jdk/jdk12/raw-file/tip/doc/building.html)
+* [antlr](https://www.antlr.org/)
+  * [The ANTLR Mega Tutorial](https://tomassetti.me/antlr-mega-tutorial/)
