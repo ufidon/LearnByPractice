@@ -57,6 +57,8 @@
 
 ### 编译器
 * [chibicc](https://github.com/rui314/chibicc)
+  * [8cc](https://github.com/rui314/8cc)
+    * [How I wrote a self-hosting C compiler in 40 days](https://www.sigbus.info/how-i-wrote-a-self-hosting-c-compiler-in-40-days)
   * [tcc](https://bellard.org/tcc/)
   * [lcc](https://drh.github.io/lcc/)
   * [Where is the x86-64 System V ABI documented?](https://stackoverflow.com/questions/18133812/where-is-the-x86-64-system-v-abi-documented)
@@ -64,5 +66,11 @@
 * [build-a-compiler-within-30-days](https://github.com/jiweixing/build-a-compiler-within-30-days)
 * [Creating the smallest JVM microservice deployment](https://medium.com/de-bijenkorf-techblog/creating-the-smallest-jvm-microservice-deployment-14a039a1dcae)
   * [Building the JDK](https://hg.openjdk.java.net/jdk/jdk12/raw-file/tip/doc/building.html)
+* [mini-js](https://github.com/maierfelix/mini-js)
+* [Kalyn](https://intuitiveexplanations.com/tech/kalyn.html)
+  * [kalyn](https://github.com/raxod502/kalyn)
+* [t3x](http://t3x.org/index.html)
+* [mincaml](https://esumii.github.io/min-caml/index-e.html)
+  * [min-caml](https://github.com/esumii/min-caml)
 * [antlr](https://www.antlr.org/)
   * [The ANTLR Mega Tutorial](https://tomassetti.me/antlr-mega-tutorial/)
