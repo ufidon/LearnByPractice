@@ -43,3 +43,12 @@
 * [clipartix](https://clipartix.com/)
 * [classroomclipart](https://classroomclipart.com/)
 * [123rf](https://www.123rf.com/)
+
+## PDF 制作
+* [PDFKit](https://pdfkit.org/)
+* [GoFPDF](https://github.com/jung-kurt/gofpdf)
+* [fpdf](http://www.fpdf.org/)
+* [libharu](https://github.com/libharu/libharu)
+* [podofo](http://podofo.sourceforge.net/index.html)
+* [pdfcpu](https://github.com/pdfcpu/pdfcpu)
+* [wkhtmltopdf](https://wkhtmltopdf.org/)
