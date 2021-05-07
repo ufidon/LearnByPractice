@@ -52,3 +52,7 @@
 * [podofo](http://podofo.sourceforge.net/index.html)
 * [pdfcpu](https://github.com/pdfcpu/pdfcpu)
 * [wkhtmltopdf](https://wkhtmltopdf.org/)
+
+## 视频会议
+* [jitsi](https://jitsi.org/)
+* [xmpp](https://xmpp.org/)
