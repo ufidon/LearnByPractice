@@ -27,6 +27,7 @@
 * [From Nand to Tetris](https://www.nand2tetris.org/)
   * [nandgame](https://nandgame.com/)
   * [Build a Computer](https://www.coursera.org/learn/build-a-computer/)
+  * [源码](https://github.com/itoshkov/nand2tetris-emu)
 * [Computer Systems: A Programmer's Perspective](http://www.csapp.cs.cmu.edu/)
   * [CSAPP-3e 练习](https://github.com/DesmondoRay/CSAPP-3e)
 * [计算机科学参考资料](https://github.com/acmbpdc/openlib.cs)
