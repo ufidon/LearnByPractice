@@ -13,5 +13,10 @@
 - [The C++ Standard Library - A Tutorial and Reference, 2nd Edition](http://www.cppstdlib.com/)
   - [code](http://www.cppstdlib.com/code/code.html)
 
+
+## fun
+- [Build Your Own Lisp](https://buildyourownlisp.com/)
+  - [构建Lisp](https://www.abnerchou.me/BuildYourOwnLispCn/)
+
 ## 虚境
 - [nixos](https://nixos.org)

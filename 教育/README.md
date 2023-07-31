@@ -14,4 +14,7 @@
 ## 尝试
 * [谷雨丨离开北上广的精英家长 宁可辞职卖房也要让孩子逃离学校](https://new.qq.com/omn/20191121/20191121A0J4GX00.html)
 
+## 杂
+- [Union of Concerned Scientists](https://www.ucsusa.org/)
+
 
