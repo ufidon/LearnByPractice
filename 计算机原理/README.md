@@ -77,5 +77,12 @@
 * [antlr](https://www.antlr.org/)
   * [The ANTLR Mega Tutorial](https://tomassetti.me/antlr-mega-tutorial/)
 
+### 新语
+- [The V Programming Language](https://vlang.io/)
+  - [源码](https://github.com/vlang/v)
+
+### 呓语
+- [呓语](https://esolangs.org/wiki/Main_Page)
+
 ### 编程语言
 - [免费编程书籍](https://github.com/EbookFoundation/free-programming-books)
