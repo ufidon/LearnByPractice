@@ -12,3 +12,6 @@
 - [开放教材库](https://open.umn.edu/opentextbooks/)
 - [openstax:莱斯大学开放教材](https://openstax.org/)
 - [经济学开放教材](https://www.core-econ.org/)
+
+# 电子书
+- [雅书](https://yabook.org/)
