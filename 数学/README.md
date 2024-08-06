@@ -3,6 +3,10 @@
   - [作者](https://web.stanford.edu/~boyd/books.html)
   - [补著](https://github.com/vbartle/VMLS-Companions)
 
+# 代数
+- [Advanced Algebra](https://2012books.lardbucket.org/books/advanced-algebra/index.html)
+- [Advanced Algebra](https://math.libretexts.org/Bookshelves/Algebra/Advanced_Algebra)
+
 # 科学计算
 - [Pluto.jl](https://plutojl.org/)
 - [算思初论](https://computationalthinking.mit.edu/Fall24/)
