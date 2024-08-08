@@ -4,6 +4,16 @@
 - [形理初论](https://open.umn.edu/opentextbooks/textbooks/54)
 - [⭐️开放逻辑工程](https://openlogicproject.org/)
 
+# 心理学
+- [Psychology 2e](https://openstax.org/details/books/psychology-2e/)
+
+
+---
+# 政治
+
+# 军事
+
+
 # 商学
 - [经济原理](https://open.umn.edu/opentextbooks/textbooks/32)
 
