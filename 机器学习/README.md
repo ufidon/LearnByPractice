@@ -6,3 +6,5 @@
 # 参考
 - [网书网课](./参.md)
 
+# 算力
+- [美国人工智能研究资源（NAIRR）试点](https://nairrpilot.org/)
