@@ -12,7 +12,13 @@
 * [skia一个二维图形库](https://skia.org/)
 * [Manim: 数学动画](https://github.com/ManimCommunity/manim)
 
-
+### 数学
+- 几何代数
+  - [物理学家的形代](https://physi.uni-heidelberg.de/~vhollmeier/ga4p/)
+  - [线形代数](http://www.faculty.luther.edu/~macdonal/laga/)
+  - [算器学之形代](https://geometricalgebra.org/)
+    - [形代初论及应用](https://math.mit.edu/~dunkel/Teach/18.S996_2022S)
+  - [投影形代](https://projectivegeometricalgebra.org/)
 
 ## 尝试
 * [谷雨丨离开北上广的精英家长 宁可辞职卖房也要让孩子逃离学校](https://new.qq.com/omn/20191121/20191121A0J4GX00.html)
