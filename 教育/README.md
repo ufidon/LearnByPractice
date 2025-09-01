@@ -20,6 +20,9 @@
     - [形代初论及应用](https://math.mit.edu/~dunkel/Teach/18.S996_2022S)
   - [投影形代](https://projectivegeometricalgebra.org/)
 
+## 自学
+- [CS自学指南](https://csdiy.wiki/)
+
 ## 尝试
 * [谷雨丨离开北上广的精英家长 宁可辞职卖房也要让孩子逃离学校](https://new.qq.com/omn/20191121/20191121A0J4GX00.html)
 

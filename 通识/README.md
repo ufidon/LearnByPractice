@@ -26,3 +26,6 @@
 
 # 电子书
 - [雅书](https://yabook.org/)
+
+# 中小学教育
+- [国家中小学智慧教育平台](https://basic.smartedu.cn/)
