@@ -29,3 +29,5 @@
 
 # 中小学教育
 - [国家中小学智慧教育平台](https://basic.smartedu.cn/)
+  - [教材](https://github.com/TapXWorld/ChinaTextbook)
+  - [教材下载工具](https://github.com/happycola233/tchMaterial-parser)
